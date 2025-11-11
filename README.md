@@ -18,7 +18,7 @@ const stevan = {
         "Building efficient systems",
         "Learning new technologies"
     ],
-    currentFocus: "Full-stack Web Development & Machine Learning",
+    currentFocus: "Full-stack Web Development & Front-end developer",
     lifePhilosophy: "Code with passion, build with purpose 💡"
 };
 ```
