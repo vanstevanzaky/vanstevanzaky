@@ -188,10 +188,35 @@ Passionate developer from Indonesia 🇮🇩 with a focus on creating elegant an
 <div align="center">
 
 ### 📜 Junior Web Developer
-**Digital Talent Scholarship**  
-Official certification proving skills in modern web development and industry best practices.
+**Digital Talent Scholarship - Vocational School Graduate Academy 2025**  
+Completed 24 hours of intensive training in modern web development
 
-[![Certificate](https://img.shields.io/badge/View_Certificate-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://vanstevanzaky.github.io/stevan-portofolio/Sertifikat_STEVAN%20ZAKY%20SETYANTO_Junior%20Web%20Developer.pdf)
+<details>
+<summary><b>📄 View Certificate (Click to expand)</b></summary>
+<br>
+
+**Certificate Page 1 - Main Certificate**
+<img src="./assets/certificates/certificate-page1.png" alt="Junior Web Developer Certificate - Page 1" width="100%">
+
+**Certificate Page 2 - Training Details**
+<img src="./assets/certificates/certificate-page2.png" alt="Junior Web Developer Certificate - Page 2" width="100%">
+
+</details>
+
+<br>
+
+**Training Coverage:**
+- ✅ Software Installation & Learning Plan (3 JP)
+- ✅ User Interface Implementation (5 JP)
+- ✅ Text-Based Programming with Graphics & Multimedia (2 JP)
+- ✅ Organizing Functions & Resources (1.5 JP)
+- ✅ Writing Code with Best Practices (1.5 JP)
+- ✅ Structured Programming Implementation (9 JP)
+- ✅ Using Pre-Existing Libraries/Components (2 JP)
+
+**Total: 24 Hours** | **Organizer: BPSDMP Surabaya** | **June 24-25, 2025**
+
+[![View Full PDF Certificate](https://img.shields.io/badge/View_Full_PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://vanstevanzaky.github.io/stevan-portofolio/Sertifikat_STEVAN%20ZAKY%20SETYANTO_Junior%20Web%20Developer.pdf)
 
 ---
 
